@@ -10,7 +10,9 @@
 </p>
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
+
 
 
 ### About Me
@@ -31,10 +33,12 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhushan-2422&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhushan-2422&layout=compact&theme=radical" height="160"/>
-</div>
+
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan-2422&theme=radical" height="160"/>
+</p>
+
 
 
 ### Connect With Me
